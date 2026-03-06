@@ -166,6 +166,19 @@ mysql -u root -p < 04_validation.sql
 - **High-risk fraudsters caught:** 22 (62.9% precision)
 - **Audit effort reduction:** Focus on 914 providers instead of 5,410
 - **Potential annual savings:** **$60M+** for a Medicare auditor
+- ## 📊 Interactive Dashboard
+
+I built a **Tableau dashboard** to visualize the fraud detection results:
+
+**[VIEW LIVE DASHBOARD](PASTE_YOUR_TABLEAU_LINK_HERE)**
+
+![Dashboard Preview](dashboard/screenshot.png)
+
+### Dashboard Features:
+- **Risk breakdown** – See HIGH/MEDIUM risk providers at a glance
+- **Signal effectiveness** – Which fraud signals work best
+- **Top suspects list** – Prioritize audits
+- **Financial impact** – $139M in fraudulent claims identified
 
 ---
 
