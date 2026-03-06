@@ -1,0 +1,5 @@
+signal_name,providers_flagged,fraudsters_caught,accuracy_pct
+Signal 1 (Claims after death),838,206,24.58
+Signal 2 (High payments),20,10,50
+Signal 3 (High-utilization patients),89,51,57.3
+Signal 4 (Repetitive diagnoses),2,0,0
