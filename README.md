@@ -170,9 +170,9 @@ mysql -u root -p < 04_validation.sql
 
 I built a **Tableau dashboard** to visualize the fraud detection results:
 
-**[VIEW LIVE DASHBOARD](PASTE_YOUR_TABLEAU_LINK_HERE)**
+**[VIEW LIVE DASHBOARD](https://public.tableau.com/app/profile/muhannad.akl/viz/fraud_detection_project_17727981206400/Dashboard1)**
 
-![Dashboard Preview](dashboard/screenshot.png)
+![Dashboard Preview](https://github.com/muhannadakl/Medicare-Fraud-Detection-System/tree/main/Dashboard)
 
 ### Dashboard Features:
 - **Risk breakdown** – See HIGH/MEDIUM risk providers at a glance
@@ -203,17 +203,6 @@ I built a **Tableau dashboard** to visualize the fraud detection results:
 
 ---
 
-## 👨‍💼 **About the Analyst**
-
-**Muhannad** – Accountant-turned-data-analyst
-
-- **Background:** Financial auditing and forensic accounting
-- **Skills:** SQL, Python, Machine Learning, Data Visualization
-- **Mission:** Use data to catch what manual audits miss
-
-
----
-
 ## 📄 **License**
 
 MIT License – Free for use and modification
@@ -227,6 +216,14 @@ This project was built as part of my **Google Advanced Data Analytics** and **IB
 ---
 
 > *"The most expensive fraud is the fraud you don't detect. This system helps auditors find it."*
+>
+## Contact 
+
+Muhannad Akl
+
+Emial: [mohannadakl82@gmail.com]
+
+LinkedIn: [https://www.linkedin.com/in/muhannad-akl]
 
 ---
 
